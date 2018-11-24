@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans');
+
+body {
+  background-color: #f4f4f4;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: 'Work Sans', sans-serif;
+}
+
+.input-field {
+  width: 14vw;
+}
+
+.input-field label {
+  font-size: 1.4vw;
+}
+
+.btn-large {
+  margin: 25px;
+}
